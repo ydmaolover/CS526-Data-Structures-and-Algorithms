@@ -1,0 +1,5 @@
+CS100, Intro to CS, John Smith, 37, 100.00
+CS200, Java Programming, Susan Smith, 35, 200.00
+CS300, Data Structures, Ahmed Suad, 41, 150.50
+CS400, Analysis of Algorithms, Yapsiong Chen, 70, 220.50 
+CS500, Data Mining, Sonia Sanchez, 29, 80.50
