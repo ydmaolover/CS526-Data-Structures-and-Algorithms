@@ -1,5 +1,4 @@
-# CS526-Data-Structures-and-Algorithms
-hw &amp; project  
+# CS526-Data-Structures-and-Algorithms 
 hw1 Basic Java  
 hw2 Array List  
 hw3 Linked List  
