@@ -1,4 +1,5 @@
 # CS526 Data Structures and Algorithms 
+<pre>
 hw1   Basic Java  
 hw2   Array List  
 hw3   Linked List  
@@ -10,3 +11,4 @@ hw8   Hash Map
 hw9   Sortings  
 hw10   Dynamic Programming  
 project   Shortest Path  
+</pre>
