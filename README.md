@@ -1,6 +1,6 @@
 # CS526 Data Structures and Algorithms 
 <pre>
-hw1   Basic Java  
+hw1   Basic Java  homework description/hw1.pdf
 hw2   Array List  
 hw3   Linked List  
 hw4   Algorithim Analysis  
